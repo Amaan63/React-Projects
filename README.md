@@ -9,7 +9,7 @@ Each app is built with **React + TailwindCSS** (some with DaisyUI), focusing on 
 
 ### 📝 Markdown Editor
 
-**Live:** https://react-projects-txyh.vercel.app/
+**Live:** <a href="https://react-projects-txyh.vercel.app/" target="_blank">https://react-projects-txyh.vercel.app/</a>
 
 > A live markdown editor with real-time preview  
 > Theme: **Dark Mode**, smooth gradients  
@@ -21,7 +21,7 @@ Each app is built with **React + TailwindCSS** (some with DaisyUI), focusing on 
 
 ### ⛅ Weather App
 
-**Live:** https://react-projects-mocha.vercel.app/
+**Live:** <a href="https://react-projects-mocha.vercel.app/" target="_blank">https://react-projects-mocha.vercel.app/</a>
 
 > Search and view 5-day forecast by city  
 > Theme: **Violet/Purple Gradient**, responsive  
@@ -33,7 +33,7 @@ Each app is built with **React + TailwindCSS** (some with DaisyUI), focusing on 
 
 ### 📇 Contact Manager
 
-**Live:** https://contact-manager-ochre.vercel.app/
+**Live:** <a href="https://contact-manager-ochre.vercel.app/" target="_blank">https://contact-manager-ochre.vercel.app/</a>
 
 > Add, edit, delete, favorite & categorize contacts  
 > Theme: **Light/Dark Mode toggle**  
@@ -45,7 +45,7 @@ Each app is built with **React + TailwindCSS** (some with DaisyUI), focusing on 
 
 ### 📆 Habit Tracker
 
-**Live:** https://habit-tracker-taupe-sigma.vercel.app/
+**Live:** <a href="https://habit-tracker-taupe-sigma.vercel.app/" target="_blank">https://habit-tracker-taupe-sigma.vercel.app/</a>
 
 > Track your daily habits with custom calendar  
 > Theme: **DaisyUI Theming**, calendar UI  
@@ -59,7 +59,7 @@ Each app is built with **React + TailwindCSS** (some with DaisyUI), focusing on 
 
 ### ✅ To-Do List
 
-**Live:** _(Add your live link here)_
+<!-- **Live:** <a href="#" target="_blank">_(Add your live link here)_</a>   -->
 
 > Classic task tracker with complete/remove option  
 > Theme: **Glassmorphism Light**
@@ -68,7 +68,7 @@ Each app is built with **React + TailwindCSS** (some with DaisyUI), focusing on 
 
 ### 💸 Expense Tracker
 
-**Live:** _(Add your live link here)_
+<!-- **Live:** <a href="#" target="_blank">_(Add your live link here)_</a>   -->
 
 > Track your income and expenses visually  
 > Theme: **Dark Neon UI**
@@ -94,7 +94,7 @@ Each app is built with **React + TailwindCSS** (some with DaisyUI), focusing on 
 
 ### 🌐 Let's Connect
 
-- GitHub: [@Amaan63](https://github.com/Amaan63)
+- GitHub: <a href="https://github.com/Amaan63" target="_blank">@Amaan63</a>
 - Portfolio: Coming soon...
 
 ---
