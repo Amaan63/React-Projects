@@ -12,7 +12,7 @@ const App = () => {
 
   const fetchWeather = async (cityName) => {
     try {
-      let uri = `http://api.weatherapi.com/v1/forecast.json?key=${API_KEY}&q=${cityName}&days=5&aqi=yes&alerts=no`;
+      let uri = `https://api.weatherapi.com/v1/forecast.json?key=${API_KEY}&q=${cityName}&days=5&aqi=yes&alerts=no`;
       let res = await axios.get(uri);
       setWeatherData(res.data);
     } catch (error) {
