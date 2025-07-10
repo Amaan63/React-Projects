@@ -55,6 +55,18 @@ Each app is built with **React + TailwindCSS** (some with DaisyUI), focusing on 
 
 ---
 
+### 📊 Crypto View
+
+**Live:** <a href="https://crypto-view-orcin.vercel.app/" target="_blank">https://crypto-view-orcin.vercel.app/</a>
+
+> View real-time crypto market data with global stats and favorites  
+> Theme: **DaisyUI + TailwindCSS**, dark/light mode support  
+> Tech: `React`, `Axios`, `TailwindCSS`, `DaisyUI`, `CoinGecko API v3`
+
+![Main](/Crypto-View/Output/Main.png)
+
+---
+
 ## 🧩 Other Projects
 
 ### ✅ To-Do List
