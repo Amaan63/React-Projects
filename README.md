@@ -67,6 +67,18 @@ Each app is built with **React + TailwindCSS** (some with DaisyUI), focusing on 
 
 ---
 
+### 🍽️ Mezbaan – The Royal Recipe App
+
+**Live:** <a href="https://mezbaan-recipe-app.vercel.app/" target="_blank">https://mezbaan-recipe-app.vercel.app/</a>
+
+> Discover royal recipes with detailed ingredients, cook time, servings, and rich Urdu-English taglines  
+> Theme: **TailwindCSS + DaisyUI**, elegant dark gradients and animated UI  
+> Tech: `React`, `Axios`, `TailwindCSS`, `DummyJSON Recipe API`
+
+![Main](/Recepie-App/Output/Main.png)
+
+---
+
 ## 🧩 Other Projects
 
 ### ✅ To-Do List
