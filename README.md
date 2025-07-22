@@ -9,7 +9,7 @@ Each app is built with **React + TailwindCSS** (some with DaisyUI), focusing on 
 
 ### 📝 Markdown Editor
 
-**Live:** <a href="https://react-projects-txyh.vercel.app/" target="_blank">https://react-projects-txyh.vercel.app/</a>
+**Live:** <a href="https://markdown-editor-txyh.vercel.app/" target="_blank">https://markdown-editor-txyh.vercel.app/</a>
 
 > A live markdown editor with real-time preview  
 > Theme: **Dark Mode**, smooth gradients  
@@ -21,7 +21,7 @@ Each app is built with **React + TailwindCSS** (some with DaisyUI), focusing on 
 
 ### ⛅ Weather App
 
-**Live:** <a href="https://react-projects-mocha.vercel.app/" target="_blank">https://react-projects-mocha.vercel.app/</a>
+**Live:** <a href="https://weather-appppp-mocha.vercel.app/" target="_blank">https://weather-appppp-mocha.vercel.app/</a>
 
 > Search and view 5-day forecast by city  
 > Theme: **Violet/Purple Gradient**, responsive  
