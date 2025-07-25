@@ -79,6 +79,18 @@ Each app is built with **React + TailwindCSS** (some with DaisyUI), focusing on 
 
 ---
 
+### ✅ TaskFlow Pro – Advanced Task Manager
+
+**Live:** <a href="https://task-manager-pro-phi.vercel.app/" target="_blank">https://task-manager-pro-phi.vercel.app/</a>
+
+> Organize your day with smart task tracking, dark themes, and visual progress – all in one lightweight app  
+> Theme: **TailwindCSS + DaisyUI**, with sleek gradients and theme switching  
+> Tech: `React`, `TailwindCSS`, `Lucide Icons`, `LocalStorage`
+
+![Main](/Task-Manager/Output/Main.png)
+
+---
+
 ## 🧩 Other Projects
 
 ### ✅ To-Do List
