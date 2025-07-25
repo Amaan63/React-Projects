@@ -6,6 +6,16 @@
 
 ---
 
+## Tech Stack
+
+- **React (Functional Components)**
+- **Tailwind CSS v4 + DaisyUI**
+- **Lucide React Icons**
+- **LocalStorage API for persistence**
+- **Responsive Design with Flexbox & Grid**
+
+---
+
 ## Features
 
 - **🌗 Dynamic Dark-Themed UI**  
@@ -79,15 +89,5 @@
 
 - **🎨 Theme Switcher:**  
   Click on the palette icon in the top bar to change the app’s theme in real-time.
-
----
-
-## Tech Stack
-
-- **React (Functional Components)**
-- **Tailwind CSS v4 + DaisyUI**
-- **Lucide React Icons**
-- **LocalStorage API for persistence**
-- **Responsive Design with Flexbox & Grid**
 
 ---
